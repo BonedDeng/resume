@@ -1,2 +1,2 @@
 # resume
-blog
+blog based on java
